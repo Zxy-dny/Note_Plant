@@ -1,6 +1,8 @@
 # 程序员必会的实战项目（ XXX 用户中心系统 )
 
 <img width="1727" height="951" alt="image" src="https://github.com/user-attachments/assets/40146357-3d36-4f8e-b5c7-bbfa3f24fa16" />
+<img width="1916" height="968" alt="image" src="https://github.com/user-attachments/assets/eb92f918-012e-4f80-8cda-a145e6ce5b2f" />
+![Uploading image.png…]()
 
 ## 需求分析
 
